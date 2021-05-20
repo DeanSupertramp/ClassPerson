@@ -1,1 +1,1 @@
-#This is an example of a Java Class
+This is an example of a Java Class
